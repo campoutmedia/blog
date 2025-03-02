@@ -6,32 +6,31 @@ description: "What I'm focusing on now"
 
 # What I'm Doing Now
 
----
-
-**Last Updated**: January 2024
+**Last Updated**: March 2025
 
 ## Professional Focus
 
-- Developing a comprehensive design system for a sustainable tech startup
-- Writing a series of design process workshops for local creative professionals
-- Consulting on brand identity for two emerging social impact organizations
+- Project Manager for a large project at my day job
 
 ## Learning & Growth
 
-- Diving deep into motion design and advanced animation techniques
-- Taking an online course on inclusive design principles
+- Learning SAP
+- Learning Flutter
+- Learning Emotional Intelligence
 - Exploring generative AI's impact on creative workflows
 
 ## Personal Projects
 
-- Designing a limited-edition art print collection
-- Building a small home studio for design and illustration work
-- Developing a design mentorship program for early-career creatives
+- Creating My first mobile app! Staytuned
+- Focusing on building my family unit stronger
+
 
 ## Life & Wellness
 
-- Practicing daily morning sketching
-- Training for a local half-marathon
-- Experimenting with plant-based cooking
+- Working to Lose some Weight, follow along on in [posts](/posts)
+- Reading as much as I can.
+- Check out the [Bible Recap](https://thebiblerecap.com)
+
+----
 
 _Inspired by Derek Sivers' [nownownow](https://nownownow.com) project_
