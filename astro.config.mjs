@@ -5,7 +5,7 @@ import mdx from "@astrojs/mdx";
 
 import playformCompress from "@playform/compress";
 
-import cloudflare from "@astrojs/cloudflare";
+// import cloudflare from "@astrojs/cloudflare";
 
 import netlify from "@astrojs/netlify";
 
