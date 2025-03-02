@@ -1,4 +1,10 @@
-# Glyptodon - Personal Astro Theme
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6726919-7c20-4355-9d2e-0cd9877a0da8/deploy-status)](https://app.netlify.com/sites/thewildermike/deploys)
+# Theme Details
+
+## Glyptodon - Personal Astro Theme
+
+
 
 A clean and modern, eco-friendly personal website theme built with [Astro](https://www.astro.build], using fluid type and grid sizing for smooth size transitions.
 
@@ -6,14 +12,14 @@ All dummy text is created by Claude AI to get a sense for what it looks like wit
 
 To see it in action, I use it for my own website at [www.timeaton.dev](https://www.timeaton.dev). Feel free to use and modify for your needs!
 
-## Screenshots
+### Screenshots
 ![glyptodon-dark min](https://github.com/user-attachments/assets/49a9f63a-8002-4493-bf91-a54552c94998)
 ---
 ![glyptodon-post min](https://github.com/user-attachments/assets/08943779-5cc6-45bd-b396-dda19a0350bf)
 ---
 ![glyptodon-light min](https://github.com/user-attachments/assets/0b51d6e3-36e2-4e73-85d4-3c4fc3d6dbd8)
 
-## Features
+### Features
 
 - Responsive design
 - Scores A or A+ (depending on hosting and your images) on [Accessify](https://www.accessify.com/) and [Ecograder](https://ecograder.com/)

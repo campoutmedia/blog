@@ -7,6 +7,8 @@ import playformCompress from "@playform/compress";
 
 import cloudflare from "@astrojs/cloudflare";
 
+import netlify from "@astrojs/netlify";
+
 export default defineConfig({
   base: "/",
   site: CONFIG.site_url,
@@ -30,5 +32,5 @@ export default defineConfig({
     },
   },
 
-  adapter: cloudflare(),
+  adapter: netlify(),
 });
