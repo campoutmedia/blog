@@ -4,7 +4,7 @@ title: "About"
 description: "About Me"
 ---
 
-# About Jane
+# About Mike
 
 ---
 
